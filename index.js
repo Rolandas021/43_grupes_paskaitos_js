@@ -1,6 +1,14 @@
+/*
+grand plan:
+-kintamieji / atminties lasteles (juose atsimenama informacija)
+-if'ai (palyginimas)
+-for'as (ciklai)
+-funkscijos (function)
+-ivikiai (event listeners)
+*/
+
 // Vienos eilutes komentaras
 
-/*
 //multi
 //line
 //komentaras
